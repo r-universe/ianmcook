@@ -1,0 +1,18 @@
+[
+  {
+    "package": "implyr",
+    "oncran": true
+  },
+  {
+    "package": "queryparser",
+    "oncran": true
+  },
+  {
+    "package": "tidyquery",
+    "oncran": true
+  },
+  {
+    "package": "wkb",
+    "oncran": true
+  }
+]
