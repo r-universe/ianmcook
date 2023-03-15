@@ -1,6 +1,6 @@
 [
   {
-    "package": "wkb",
+    "package": "implyr",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "implyr",
+    "package": "wkb",
     "oncran": true
   }
 ]

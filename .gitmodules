@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "wkb"]
-	path = wkb
-	url = https://github.com/ianmcook/wkb
+[submodule "implyr"]
+	path = implyr
+	url = https://github.com/ianmcook/implyr
 	shallow = true
 	registered = true
 [submodule "queryparser"]
@@ -18,8 +18,8 @@
 	url = https://github.com/ianmcook/tidyquery
 	shallow = true
 	registered = true
-[submodule "implyr"]
-	path = implyr
-	url = https://github.com/ianmcook/implyr
+[submodule "wkb"]
+	path = wkb
+	url = https://github.com/ianmcook/wkb
 	shallow = true
 	registered = true
